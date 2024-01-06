@@ -77,36 +77,41 @@
     margin-top: 8px;
 }
 
+/* Icon part */
 .plan-title{
     text-align: center;
     margin-top: 100px;
     margin-bottom: 50px;
     font-size: 40px;
 }
-
 .plan-content{
     display: flex;
     justify-content: center;
     gap: 150px;
 }
-
 .plan-content-title{
     color: #151414;
     font-size: 30px;
     font-weight: 700;
     text-align: center;
 }
-
 .plan-content-sub{
     color: #737272;
     text-align: center;
     font-size: 25px;
     font-weight: 500;
 }
-
 .icon{
     align-items: center;
 }
+
+/* Gradient Part */
+.underground{
+    margin-top: 20px;
+    justify-content: center;
+}
+
+
 
 
 

@@ -1,15 +1,14 @@
 *{
     margin: 0;
     padding: 0;
-}
-
-body{
     font-family: Work Sans;
 }
 
+/* Header Section */
 .banner-content{
     color: #FFF;
     text-align: right;
+    /* justify-content: flex-end; */
     padding: 210px 230px 180px 800px;
 }
 .head{
@@ -35,9 +34,48 @@ body{
     font-weight: 600;
 }
 .banner{
-    background-image: url(../images/banner/banner3.png);
+    background-image: url('../images/banner/banner3.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;    
 }
+
+/* Main Section */
+.failure{
+    justify-content: center;
+}
+.picture{
+    padding-top: 200px;
+    padding-left: 200px;
+    margin-top: 0;
+    position: absolute;
+}
+.failure1{
+    padding-top: 500px;
+    padding-left: 850px;
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+}
+.failure2{
+    margin-top: 24px;
+    font-size: 16px;
+    padding-left: 850px;
+    padding-right: 300px;
+    color: #444343; 
+}
+.failure3{
+    margin-top: 16px;
+    font-size: 16px;
+    padding-left: 880px;
+    padding-right: 100px;
+    padding-bottom: 500px;
+    color: #444343;
+}
+.failure3 li{
+    list-style: none;
+    margin-top: 8px;
+}
+
+
 

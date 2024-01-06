@@ -76,6 +76,9 @@
     list-style: none;
     margin-top: 8px;
 }
+.fa-solid{
+    color: rgb(29, 255, 29);
+}
 
 /* Icon part */
 .plan-title{
